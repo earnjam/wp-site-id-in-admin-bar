@@ -3,7 +3,7 @@
 Plugin Name: Site ID in Admin Bar
 Plugin URI: http://github.com/earnjam/site-id-in-admin-bar
 Description: Show the ID of the current site in the admin bar for network admins
-Version: 1.0
+Version: 1.0.1
 Author: William Earnhardt
 Author URI: https://wearnhardt.com
 License: GPLv2
